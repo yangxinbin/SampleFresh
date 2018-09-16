@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:4:11-37
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:7:5-12:39
+	android:largeScreens
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:10:9-37
+	android:resizeable
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:8:9-34
+uses-sdk
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:14:5-16:41
+MERGED from [cn.sharesdk:ShareSDK:3.2.1.2] C:\Users\Administrator\.android\build-cache\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.2.1.2] C:\Users\Administrator\.android\build-cache\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\e93e2cd9fe56881a6002b399e7e07e94158aa270\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\a522fc3f2589594d58e947c8e51063355336028f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\739514b6bee1809adf064f26e1dc35942a1e5802\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\0925a24269db0fbb85df51571befb96e59e5f5ac\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\038e953b08910b7aca0bcf0cfe4d1ec3bea2e1dd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\5ced3d270d6d9b12c1726f1541d94bd3b1fde0e6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\161f8b91e76aea74019b7e874d8c7973079e7567\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Administrator\.android\build-cache\a17c7a00af49da7f733d66e8d6f1cc2b8f253e8e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\a39d5158026d9bb24ba3cb853fc6ea78dd041052\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\009210c978854e864db02502416b060cea69fa45\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\e93e2cd9fe56881a6002b399e7e07e94158aa270\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:15:9-34
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:17:5-36:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\e93e2cd9fe56881a6002b399e7e07e94158aa270\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\a522fc3f2589594d58e947c8e51063355336028f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\739514b6bee1809adf064f26e1dc35942a1e5802\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\0925a24269db0fbb85df51571befb96e59e5f5ac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\038e953b08910b7aca0bcf0cfe4d1ec3bea2e1dd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\5ced3d270d6d9b12c1726f1541d94bd3b1fde0e6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\161f8b91e76aea74019b7e874d8c7973079e7567\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Administrator\.android\build-cache\a39d5158026d9bb24ba3cb853fc6ea78dd041052\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Administrator\.android\build-cache\009210c978854e864db02502416b060cea69fa45\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:23:9-59
+	tools:replace
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:24:9-37
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:18:9-28
+activity#cn.sharesdk.demo.MainActivity
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:29:27-74
+activity#cn.sharesdk.demo.activitys.SharePlatformTypeActivity
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:33:9-82
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:33:19-70
+activity#cn.sharesdk.demo.activitys.ShowUserInfoActivity
+ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:34:9-77
+	android:name
+		ADDED from E:\Android\need\v3.1.4\ShareSDK for Android Sample\SampleFresh\app\src\main\AndroidManifest.xml:34:19-65

@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_meipai.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_mobile_logo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_mobile_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_weibo_empty_failed.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_country_clear_search.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_country_search_icon.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_country_sharesdk_icon.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youtube.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_dingding.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_cmcc.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_cmcc.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_loading.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_loading.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_left_back.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_left_back.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_exception_icon.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_exception_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_input_bg_focus.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_country_back_arrow.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_checkboxed.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_checkboxed.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_load_dot_white.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_load_dot_white.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_country_cl_divider.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_telegram.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_telegram.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e93e2cd9fe56881a6002b399e7e07e94158aa270\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1caefb8a0dcbf5360a7d1fa9a5da27fa992db11\\output\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "E:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_identify_icon.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ecba62f8b082ac29159bcdc1e9ffb7ecef7d0cd6\\output\\res\\drawable-xhdpi-v4\\ssdk_identify_icon.png"
+    }
+]

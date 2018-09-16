@@ -1,0 +1,4 @@
+#Mon Sep 17 02:00:26 CST 2018
+base.0=E\:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android\\need\\v3.1.4\\ShareSDK for Android Sample\\SampleFresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
